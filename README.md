@@ -3,7 +3,7 @@
 ](https://www.linkedin.com/in/juan-campos-nascimento/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_cn100/)
 
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCampos1300&show_icons=true&theme=dracula&count_private=true)
+![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCampos1300&show_icons=true&theme=dracula)
 
 
 ## Programações que utilizo durante o dia!
