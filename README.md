@@ -16,5 +16,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
-- Estudante de Ciências da Computação, fanático em programação e empenhado para aprender. 😁
-- Em busca da primeira oportunidade na área de desnvolvimento de programação de linguagens.💻
+- Estudante de Análise e Desenvolvimento de Sistemas, fanático em programação e empenhado para aprender. 😁
+- Busco sempre aperfeiçoar meu conhecimento na área de programação.💻
